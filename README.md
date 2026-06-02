@@ -85,6 +85,9 @@ Example log format:
 2026-06-02 | INFO | REQUEST: {...}
 2026-06-02 | INFO | RESPONSE: {...}
 
+## 🚀 Bonus Feature Added
+- STOP_LIMIT order type implemented using Binance Futures API
+
 
 
 
